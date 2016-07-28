@@ -1,5 +1,5 @@
 # An Introduction to Statistical Learning with Applications in R
-The solutions to the exercises of the book "An Introduction to Statistical Learning with Applications in R(ISLR)" in Jupyter Notebook.
+The solutions to the exercises of the book "An Introduction to Statistical Learning with Applications in R(" (ISLR) in Jupyter Notebook.
 ISLR is a very comprehensive and fluent introduction to machine learning in this case "statistical learning". 
 
 The e-book version of the book is available by the authors website: http://www-bcf.usc.edu/~gareth/ISL/
